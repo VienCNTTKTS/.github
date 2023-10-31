@@ -1,12 +1,5 @@
-## Hi there 👋
+# VIỆN CÔNG NGHỆ THÔNG TIN VÀ KINH TẾ SỐ - SCHOOL OF INFORMATION TECHNOLOGY AND DIGITAL ECONOMY
 
-<!--
+![Alt](https://tainangso.com/img/sitde.png)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Viện Công nghệ thông tin và Kinh tế số được thành lập vào ngày 11 tháng 01 năm 2019, kết hợp từ hai đơn vị: Khoa Tin học Kinh tế và Viện Công nghệ thông tin Kinh tế trực thuộc trường Đại học Kinh tế Quốc dân. Nhằm đáp ứng nhu cầu và sự phát triển của xã hội trong thời kỳ cách mạng công nghiệp 4.0, Viện Công nghệ thông tin và Kinh tế số định hướng sẽ trở thành đơn vị đi đầu trong sự nghiệp đưa công nghệ vào các ngành kinh tế. Hiện nay, Viện đào tạo khoảng 1200 sinh viên với ba ngành: Công nghệ thông tin, Khoa học máy tính và Hệ thống thông tin quản lý.
